@@ -28,7 +28,7 @@ void WhatsQuadraticformula()
 
 int main()
 {
-    system("color f3");
+    system("color 5f");
     system("title Quadratic formula");
     cout << "                     Quadratic formula\n";
     cout << "                  1 - Quadratic formula\n";
